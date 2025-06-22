@@ -1,0 +1,12 @@
+num1_str = input ("please type the first number: ")
+num1 = float(num1_str)
+num2_str = input ("please type the second number: ")
+num2=float(num2_str)
+plus_result = num1 + num2
+minus_result = num1 - num2
+multiply_result = num1 * num2
+divide_result = num1 / num2
+print (num1, "+", num2,"=", plus_result)
+print (num1, "-",num2,"=", minus_result)
+print (num1, "*", num2,"=", multiply_result)
+print (num1, "/", num2,"=", divide_result)
