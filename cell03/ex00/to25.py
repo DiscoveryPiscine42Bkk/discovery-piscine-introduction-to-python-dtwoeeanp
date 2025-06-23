@@ -1,6 +1,6 @@
 print ("Enter a number less that 25:")
-number_entered = int(input())
-i = number_entered
+number = int(input())
+i = number
 if i < 25:
     while i <=25:
 

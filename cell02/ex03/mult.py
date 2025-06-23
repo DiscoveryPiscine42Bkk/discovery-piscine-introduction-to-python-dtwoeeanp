@@ -1,9 +1,9 @@
 print("Enter the first number.")
-first_number = input()
-print("Enter second number.")
-second_number = input()
-product = int(first_number) * int(second_number)
-print(first_number,"x",second_number,"=",product)
+number_1 = input()
+print("Enter second number")
+number_2= input()
+product = int(number_1) * int(number_2)
+print(number_1,"x",number_2,"=",product)
 
 if int(product) == 0:
     print("The result is zero.")
