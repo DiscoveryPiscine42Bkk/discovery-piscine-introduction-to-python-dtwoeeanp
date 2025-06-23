@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 num1_str = input ("please type the first number: ")
 num1 = float(num1_str)
 num2_str = input ("please type the second number: ")

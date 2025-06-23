@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 my_password = "1234"
 print ("Enter your password")
 password = input()
